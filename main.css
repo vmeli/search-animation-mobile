@@ -88,6 +88,7 @@ html {
 }
 
 .MainList__search-mobile  {
+	display: none;
 	position: absolute;
 	top: 50%;
 	right: -50%;
@@ -106,6 +107,7 @@ html {
 	outline: 0;
 }
 .mol-nav_Main.active .MainList__search-mobile {
+	display: block;
 	transform: translate(-50%,-50%);
 	width: 100%;
 	text-align: center;
