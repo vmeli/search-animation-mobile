@@ -49,7 +49,7 @@ html {
     cursor: pointer;
 }
 .mol-nav_Main .Main-btn .container-btn-search {
-	transition: .7s;
+	transition: .7s all;
 }
 .mol-nav_Main .Main-btn .container-btn-menu>a:before,
 .mol-nav_Main .Main-btn .container-btn-search>a:before {
